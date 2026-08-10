@@ -153,7 +153,7 @@ export const umkmList: Umkm[] = [
     ],
     rentang_harga: 'Rp 1.150.000 - Rp 2.000.000 / pcs',
     alamat_lengkap: 'Jl. Sunan Giri 5 No.50 Kel.Kawisanyar, Kec.Kebomas, Kab.Gresik',
-    wa_number: '6281515249488',
+    wa_number: '62815',
     maps_url: 'https://maps.app.goo.gl/LEnoULxuu4CsMjfe7',
     image: 'https://images.pexels.com/photos/10316634/pexels-photo-10316634.jpeg?auto=compress&cs=tinysrgb&w=1200',
     icon: 'Factory',
